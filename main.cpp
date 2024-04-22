@@ -54,83 +54,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun:
 //  action 1:
-
+scanner.scanDocument();
 //  action 2:
-
+scanner.sendData();
 //  action 3:
-
+scanner.connectToComputer();
 //  2)
 //  Noun:
 //  action 1:
-
+dog.chaseBall();
 //  action 2:
-
+dog.digHole();
 //  action 3:
-
+dog.sleep();
 //  3)
 //  Noun:
 //  action 1:
-
+chef.sharpenKnife();
 //  action 2:
-
+chef.cookPrawns();
 //  action 3:
-
+chef.speakToCustomer();
 //  4)
 //  Noun:
 //  action 1:
-
+computer.processData();
 //  action 2:
-
+computer.updateSoftware();
 //  action 3:
-
+computer.storeCredentials();
 //  5)
 //  Noun:
 //  action 1:
-
+musician.playInstrument();
 //  action 2:
-
+musician.sing();
 //  action 3:
-
+musician.recordTrack();
 //  6)
 //  Noun:
 //  action 1:
-
+airplane.takeOff();
 //  action 2:
-
+airplane.cruiseAtAltitude();
 //  action 3:
-
+airplane.land();
 //  7)
 //  Noun:
 //  action 1:
-
+gardener.waterPlants();
 //  action 2:
-
+gardener.trimWeeds();
 //  action 3:
-
+gardener.cleanGarden();
 //  8)
 //  Noun:
 //  action 1:
-
+telephone.makeCall();
 //  action 2:
-
+telephone.playRingtone();
 //  action 3:
-
+telephone.connectToBluetoothDevice();
 //  9)
 //  Noun:
 //  action 1:
-
+videoGame.startNewLevel();
 //  action 2:
-
+videoGame.saveProgress();
 //  action 3:
-
+videoGame.loadSavedState();
 //  10)
 //  Noun:
 //  action 1:
-
+coffeeMaker.brew();
 //  action 2:
-
+coffeeMaker.grindBeans();
 //  action 3:
-
+coffeeMaker.shutdown();
 
 
 #endif

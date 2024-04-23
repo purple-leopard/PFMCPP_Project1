@@ -138,8 +138,8 @@ coffeeMaker.playBrewCompleteSound();
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
  Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
-
- If you didn't already:
+ 
+ If you didn't already: 
     Make a pull request after you make your first commit
     pin the pull request link and this repl.it link to our DM thread in a single message.
 
@@ -149,8 +149,8 @@ coffeeMaker.playBrewCompleteSound();
  */
 
 #include <iostream>
-int main() 
+int main()
 {
-  std::cout << "good to go" << std::endl;
-  return 0;
+    std::cout << "good to go" << std::endl;
+    return 0;
 }

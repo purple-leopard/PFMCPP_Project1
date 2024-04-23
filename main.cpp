@@ -137,8 +137,7 @@ coffeeMaker.playBrewCompleteSound();
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left,
- entering a message, and click [Commit and push].
+ Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
 
  If you didn't already:
     Make a pull request after you make your first commit

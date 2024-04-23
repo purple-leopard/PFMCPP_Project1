@@ -47,102 +47,103 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
 arm.extend();                           // 3)
 //  action 2:   the arm flexes          // 2)
 arm.flex();                             // 3)
-//  action 3:   the arm rotates conter-clockwise
+//  action 3:   the arm rotates counter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: scanner
+//  action 1: the scanner scans a document
 scanner.scanDocument();
-//  action 2:
+//  action 2: the scanner sends data
 scanner.sendData();
-//  action 3:
+//  action 3: the scanner connects to a computer
 scanner.connectToComputer();
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: the dog chases a ball
 dog.chaseBall();
-//  action 2:
+//  action 2: the dog digs a hole
 dog.digHole();
-//  action 3:
+//  action 3: the dog sleeps
 dog.sleep();
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: chef
+//  action 1: the chef sharpens a knife
 chef.sharpenKnife();
-//  action 2:
+//  action 2: the chef cooks prawns
 chef.cookPrawns();
-//  action 3:
+//  action 3: the chef speaks to a customer
 chef.speakToCustomer();
 //  4)
-//  Noun:
-//  action 1:
-computer.processData();
-//  action 2:
-computer.updateSoftware();
-//  action 3:
-computer.storeCredentials();
+//  Noun: dataCenter
+//  action 1: the dataCenter processes data
+dataCenter.processData();
+//  action 2: the dataCenter updates its software
+dataCenter.updateSoftware();
+//  action 3: the dataCenter stores credentials
+dataCenter.storeCredentials();
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: musician
+//  action 1: the musician plays their instrument
 musician.playInstrument();
-//  action 2:
+//  action 2: the musician sings
 musician.sing();
-//  action 3:
+//  action 3: the musician records a track
 musician.recordTrack();
 //  6)
-//  Noun:
-//  action 1:
-airplane.takeOff();
-//  action 2:
-airplane.cruiseAtAltitude();
-//  action 3:
-airplane.land();
+//  Noun: drone
+//  action 1: the drone takes off
+drone.takeOff();
+//  action 2: the drone cruises at altitude
+drone.cruiseAtAltitude();
+//  action 3: the drone lands
+drone.land();
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: gardener
+//  action 1: the gardener waters plants
 gardener.waterPlants();
-//  action 2:
+//  action 2: the gardener trims weeds
 gardener.trimWeeds();
-//  action 3:
+//  action 3: the gardener cleans the garden
 gardener.cleanGarden();
 //  8)
-//  Noun:
-//  action 1:
-telephone.makeCall();
-//  action 2:
+//  Noun: telephone
+//  action 1: the telephone searches for a cell network
+telephone.searchForCellNetwork();
+//  action 2: the telephone plays a ringtone
 telephone.playRingtone();
-//  action 3:
+//  action 3: the telephone connects to a bluetooth device
 telephone.connectToBluetoothDevice();
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: video game
+//  action 1: the video game starts a new level
 videoGame.startNewLevel();
-//  action 2:
+//  action 2: the video game saves progress
 videoGame.saveProgress();
-//  action 3:
+//  action 3: the video game loads a saved state
 videoGame.loadSavedState();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: coffee maker
+//  action 1: the coffee maker brews
 coffeeMaker.brew();
-//  action 2:
+//  action 2: the coffee maker grinds beans
 coffeeMaker.grindBeans();
-//  action 3:
-coffeeMaker.shutdown();
-
+//  action 3: the coffee maker plays a brew complete sound
+coffeeMaker.playBrewCompleteSound();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +151,7 @@ coffeeMaker.shutdown();
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }

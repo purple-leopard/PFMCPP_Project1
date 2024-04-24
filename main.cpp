@@ -47,91 +47,90 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
 arm.extend();                           // 3)
 //  action 2:   the arm flexes          // 2)
 arm.flex();                             // 3)
-//  action 3:   the arm rotates conter-clockwise
+//  action 3:   the arm rotates counter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: scanner
+//  action 1: the scanner scans a document
+scanner.scanDocument();
+//  action 2: the scanner sends data
+scanner.sendData();
+//  action 3: the scanner connects to a computer
+scanner.connectToComputer();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog chases a ball
+dog.chaseBall();
+//  action 2: the dog digs a hole
+dog.digHole();
+//  action 3: the dog sleeps
+dog.sleep();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: chef
+//  action 1: the chef sharpens a knife
+chef.sharpenKnife();
+//  action 2: the chef cooks prawns
+chef.cookPrawns();
+//  action 3: the chef speaks to a customer
+chef.speakToCustomer();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dataCenter
+//  action 1: the dataCenter processes data
+dataCenter.processData();
+//  action 2: the dataCenter updates its software
+dataCenter.updateSoftware();
+//  action 3: the dataCenter stores credentials
+dataCenter.storeCredentials();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: musician
+//  action 1: the musician plays their instrument
+musician.playInstrument();
+//  action 2: the musician sings
+musician.sing();
+//  action 3: the musician records a track
+musician.recordTrack();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: drone
+//  action 1: the drone takes off
+drone.takeOff();
+//  action 2: the drone cruises at altitude
+drone.cruiseAtAltitude();
+//  action 3: the drone lands
+drone.land();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: gardener
+//  action 1: the gardener waters plants
+gardener.waterPlants();
+//  action 2: the gardener trims weeds
+gardener.trimWeeds();
+//  action 3: the gardener cleans the garden
+gardener.cleanGarden();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: telephone
+//  action 1: the telephone searches for a cell network
+telephone.searchForCellNetwork();
+//  action 2: the telephone plays a ringtone
+telephone.playRingtone();
+//  action 3: the telephone connects to a bluetooth device
+telephone.connectToBluetoothDevice();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: video game
+//  action 1: the video game starts a new level
+videoGame.startNewLevel();
+//  action 2: the video game saves progress
+videoGame.saveProgress();
+//  action 3: the video game loads a saved state
+videoGame.loadSavedState();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun: coffee maker
+//  action 1: the coffee maker brews
+coffeeMaker.brew();
+//  action 2: the coffee maker grinds beans
+coffeeMaker.grindBeans();
+//  action 3: the coffee maker plays a brew complete sound
+coffeeMaker.playBrewCompleteSound();
 
 #endif
 
